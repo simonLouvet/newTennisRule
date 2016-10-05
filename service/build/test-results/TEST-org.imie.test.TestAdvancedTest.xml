@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.imie.test.TestAdvancedTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2016-10-04T23:22:17" hostname="ekologia-VirtualBox" time="0.112">
+  <properties/>
+  <testcase name="vistoireJ1Bloquee" classname="org.imie.test.TestAdvancedTest" time="0.005"/>
+  <testcase name="gagneJ2ApresEgalite" classname="org.imie.test.TestAdvancedTest" time="0.001"/>
+  <testcase name="gagneJ1" classname="org.imie.test.TestAdvancedTest" time="0.001"/>
+  <testcase name="vistoireJ1Bloquee" classname="org.imie.test.TestAdvancedTest" time="0.001"/>
+  <testcase name="gagneJ2ApresEgalite" classname="org.imie.test.TestAdvancedTest" time="0.001"/>
+  <testcase name="gagneJ1" classname="org.imie.test.TestAdvancedTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
