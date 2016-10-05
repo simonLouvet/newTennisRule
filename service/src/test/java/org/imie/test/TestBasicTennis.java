@@ -23,7 +23,7 @@ public class TestBasicTennis {
 	@Test
 	public void score_15_0() {
 		jeux.marquerJoueur1();
-		assertEquals("15-15", jeux.getScore()); 
+		assertEquals("15-0", jeux.getScore()); 
 	}
 	
 	@Test
