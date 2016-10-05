@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.imie.test.TestLoadTennisIntegration" tests="2" skipped="0" failures="0" errors="0" timestamp="2016-10-05T03:55:22" hostname="ekologia-VirtualBox" time="0.045">
+<testsuite name="org.imie.test.TestLoadTennisIntegration" tests="2" skipped="0" failures="0" errors="0" timestamp="2016-10-05T04:06:14" hostname="ekologia-VirtualBox" time="0.009">
   <properties/>
-  <testcase name="testIntegrationReset" classname="org.imie.test.TestLoadTennisIntegration" time="0.041"/>
-  <testcase name="testIntegrationSave" classname="org.imie.test.TestLoadTennisIntegration" time="0.004"/>
+  <testcase name="testIntegrationReset" classname="org.imie.test.TestLoadTennisIntegration" time="0.006"/>
+  <testcase name="testIntegrationSave" classname="org.imie.test.TestLoadTennisIntegration" time="0.002"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.imie.test.TestLoadTennis" tests="6" skipped="0" failures="0" errors="0" timestamp="2016-10-05T03:55:21" hostname="ekologia-VirtualBox" time="0.015">
+<testsuite name="org.imie.test.TestLoadTennis" tests="6" skipped="0" failures="0" errors="0" timestamp="2016-10-05T04:06:13" hostname="ekologia-VirtualBox" time="0.04">
   <properties/>
-  <testcase name="testUnitaireReset" classname="org.imie.test.TestLoadTennis" time="0.001"/>
-  <testcase name="testUnitaireSaveBis" classname="org.imie.test.TestLoadTennis" time="0.001"/>
-  <testcase name="testUnitaireSave" classname="org.imie.test.TestLoadTennis" time="0.0"/>
-  <testcase name="testUnitaireReset" classname="org.imie.test.TestLoadTennis" time="0.0"/>
+  <testcase name="testUnitaireReset" classname="org.imie.test.TestLoadTennis" time="0.005"/>
   <testcase name="testUnitaireSaveBis" classname="org.imie.test.TestLoadTennis" time="0.0"/>
+  <testcase name="testUnitaireSave" classname="org.imie.test.TestLoadTennis" time="0.001"/>
+  <testcase name="testUnitaireReset" classname="org.imie.test.TestLoadTennis" time="0.012"/>
+  <testcase name="testUnitaireSaveBis" classname="org.imie.test.TestLoadTennis" time="0.001"/>
   <testcase name="testUnitaireSave" classname="org.imie.test.TestLoadTennis" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
